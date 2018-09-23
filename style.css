@@ -14,7 +14,7 @@
   .featured2 {
     grid-template-columns: 1fr 1fr !important;
     grid-auto-rows: minmax(250, auto) !important;
-    clear:both;
+
   }
 }
 
@@ -22,6 +22,7 @@
   background-color: rgba(251, 251, 255, 1) !important;
   display: grid !important;
   grid-template-rows: 1fr minmax(5em, auto) !important;
+  clear:both;
 }
 
 .featured2 .image4 {
