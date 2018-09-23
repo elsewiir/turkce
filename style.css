@@ -10,7 +10,6 @@ pagepost img{
   list-style: none !important;
   margin: 0 !important;
   padding: 0 !important;
-  margin: 0 !important;
   display: grid !important;
   grid-template-columns: 1fr  !important;
   grid-auto-rows: minmax(200px, auto) !important;
@@ -29,7 +28,6 @@ pagepost img{
   background-color: rgba(251, 251, 255, 1) !important;
   display: grid !important;
   grid-template-rows: 1fr minmax(5em, auto) !important;
-  margin: 0 !important;
 }
 
 .featured2 .image4 {
@@ -42,7 +40,6 @@ pagepost img{
   width: 100% !important;
   height: 100% !important;
   object-fit: cover !important;
-  margin: 0 !important;
 }
 
 .featured2 .caption9 {
@@ -66,12 +63,10 @@ pagepost img{
   font-family: Alegreya, serif !important;
   margin: 0 !important;
   color: #E0E0E0 !important;
-  margin-left: 0 !important;
 
 }
 
 .featured2 li p {
   margin: 0.5rem 0 0 0 !important;
   color: #E0E0E0 !important;
-  margin-left: 0 !important;
 }
