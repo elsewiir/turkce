@@ -1,4 +1,11 @@
-
+pagepost img{
+    max-width: auto;
+    padding: 0px;
+    border: 0px;
+}
+.widget li, .BlogArchive #ArchiveList ul.flat li {
+  padding: 0px;
+}
 .featured2 {
   list-style: none !important;
   margin: 0 !important;
