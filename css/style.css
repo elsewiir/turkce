@@ -1,4 +1,44 @@
-pagepost img{
+body {
+
+}
+
+.logo {
+  text-align: center;
+  background-color: grey;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*pagepost img{
     max-width: auto !important;
     padding: 0px !important;
     border: 0px !important;
@@ -70,3 +110,4 @@ pagepost img{
   margin: 0.5rem 0 0 0 !important;
   color: #E0E0E0 !important;
 }
+*/
