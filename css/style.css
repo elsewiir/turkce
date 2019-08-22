@@ -5,6 +5,9 @@ body {
 .logo {
   text-align: center;
   background-color: grey;
+  padding-bottom: 10px;
+  padding-top: 10px;
+
 }
 
 
