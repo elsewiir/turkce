@@ -3,7 +3,7 @@ body {
 }
 
 .logo {
-  text-align: center;
+  align-content: center;
   background-color: grey;
   padding-bottom: 10px;
   padding-top: 10px;
